@@ -1,0 +1,4 @@
+@INSusers
+@INSfriends
+@INStrips
+@INSitems

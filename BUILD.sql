@@ -1,0 +1,12 @@
+@DROPALL
+@CRTall
+@INSall
+@CRTbalance
+@getBalance
+@getBuyerTrips
+@getReqTrips
+@balancetrig
+@balancetrig2
+@vFriends
+@signUp
+@logIn
